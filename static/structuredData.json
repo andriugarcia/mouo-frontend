@@ -1,0 +1,11 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "url": "https://mouo.es",
+    "name": "Mouo",
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "url": "https://mouo.es",
+        "contactType": "Customer service"
+    }
+}
