@@ -1,4 +1,8 @@
-# nuxt-vuetify-pwa-template
+# E-Commerce Clothing Landing Page
+
+## Introduction
+
+This is a landing page for a real clothing e-commerce website built with modern web technologies. The project showcases a professional storefront interface designed to provide customers with an intuitive shopping experience for fashion and clothing items.
 
 > Nuxt.js + Vuetify.js + pwa project
 
